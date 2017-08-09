@@ -4,10 +4,10 @@
   "name": "Current Currency for Crypto",
   "description": "This extension shows Current Currency for Crypto",
   "version": "1.0",
-  "icons": { "128": "icon_128.png" },
+  "icons": { "128": "images/icon_128.png" },
 
   "browser_action": {
-    "default_icon": "icon.png",
+    "default_icon": "images/icon.png",
     "default_popup": "index.html"
   },
   "permissions": [
