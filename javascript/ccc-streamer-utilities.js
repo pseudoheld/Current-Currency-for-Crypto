@@ -40,6 +40,7 @@ CCC.STATIC.CURRENCY.SYMBOL = {
   , 'GOLD' : 'Gold g'
   , 'INR'  : '₹'
   , 'BRL'  : 'R$'
+  , 'NEO'  : 'N'
 };
 
 CCC.STATIC.CURRENCY.getSymbol = function(symbol){
